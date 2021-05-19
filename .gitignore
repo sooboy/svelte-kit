@@ -3,3 +3,5 @@ node_modules
 /.svelte-kit
 /build
 /functions
+static/smui.css
+static/smui-dark.css
